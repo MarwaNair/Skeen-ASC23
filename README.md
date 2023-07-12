@@ -1,4 +1,4 @@
-# virtual-ai-code
+# Skeen Project 
 
 ## Inspiration
 Many people worldwide suffer from skin conditions that negatively impact their mental and physical well-being. They often resort to taking dangerous medications to treat the symptoms without addressing the root causes. Skeen aims to change that.
